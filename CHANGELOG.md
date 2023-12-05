@@ -1,4 +1,13 @@
 # Embroider Changelog
+## Release (2023-12-05)
+
+
+
+#### :house: Internal
+* [#1698](https://github.com/embroider-build/embroider/pull/1698) Use release plan ([@mansona](https://github.com/mansona))
+
+#### Committers: 1
+- Chris Manson ([@mansona](https://github.com/mansona))
 
 ## Release (2023-11-28)
 
